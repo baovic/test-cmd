@@ -1,5 +1,5 @@
 AuthType Basic
 AuthName "username and password is incorrect"
-AuthUserFile /var/www/html/test-html-coding/.htpasswd
+AuthUserFile /var/www/html/test-cmd/.htpasswd
 #AuthGroupFile /dev/null
 Require valid-user
